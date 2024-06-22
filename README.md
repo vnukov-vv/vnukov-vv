@@ -1,10 +1,15 @@
-### Hi there 👋
+### 
+![Сертификат](https://github.com/vnukov-vv/vnukov-vv/assets/101928718/e2c71ea1-6a14-458b-893c-351f890bf75e)
+![Удостоверение_ПК](https://github.com/vnukov-vv/vnukov-vv/assets/101928718/aee43673-f888-4e93-88a9-9e06a61a565a)
+
+
 
 <!--
 **vnukov-vv/vnukov-vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
+- 👋 Hi there 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
