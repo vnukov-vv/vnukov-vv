@@ -1,8 +1,7 @@
 ### 
 ![Сертификат](https://github.com/vnukov-vv/vnukov-vv/assets/101928718/e2c71ea1-6a14-458b-893c-351f890bf75e)
 ![Удостоверение_ПК](https://github.com/vnukov-vv/vnukov-vv/assets/101928718/aee43673-f888-4e93-88a9-9e06a61a565a)
-
-
+![Диплом_ПП](https://github.com/user-attachments/assets/1a583bbe-a65a-4862-8f9c-d2c7597ffab0)
 
 <!--
 **vnukov-vv/vnukov-vv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
